@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm bhogi1718 👋
 
-<!--
-**bhogi1718/bhogi1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CS student at Mahindra University, Hyderabad, working across software engineering, cybersecurity, machine learning, and competitive programming.
 
-Here are some ideas to get you started:
+## 🔭 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[web-pacs](https://github.com/bhogi1718/web-pacs)** — web-based DICOM collaboration viewer: Express/TypeScript API with OIDC auth, React + Cornerstone3D viewer (grid, sync, MPR, shared measurements)
+- **[txradar](https://github.com/bhogi1718/txradar)** — local-first crypto transaction tracker for Bitcoin, Ethereum and Tron, no signup, no paid services
+- **[uid-project](https://github.com/bhogi1718/uid-project)** — FauxFinance, a paper-trading platform for US stocks with real market data and a public leaderboard
+- **[aperture](https://github.com/bhogi1718/aperture)** — real-time credit-decisioning engine for thin-file applicants using XGBoost + SHAP explanations
+
+## 🛠️ Stack
+
+TypeScript · Next.js · React · Node.js / Express · Python / FastAPI · PostgreSQL · Docker
+
+## 📫 Reach me
+
+[GitHub](https://github.com/bhogi1718)
